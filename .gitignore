@@ -1,0 +1,5 @@
+# IGNORE ENV
+env/
+
+# IGNORE PYCACHE
+__pycache__/
